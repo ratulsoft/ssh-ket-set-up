@@ -4,3 +4,6 @@ let b = 50;
 let c = 50;
 let result = a + b;
 console.log(result);
+
+
+let an = "hello world"
