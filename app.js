@@ -7,3 +7,4 @@ console.log(result);
 
 
 let an = "hello world"
+console.log("this my first program in the world");
